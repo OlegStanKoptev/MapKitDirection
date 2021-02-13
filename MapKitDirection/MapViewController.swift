@@ -1,9 +1,9 @@
 //
-//  MapViewController.swift
+//  RouteTableViewController.swift
 //  MapKitDirection
 //
-//  Created by Simon Ng on 6/10/2016.
-//  Copyright © 2016 AppCoda. All rights reserved.
+//  Created by Oleg Koptev on 14.02.2021.
+//  Copyright © 2021 AppCoda. All rights reserved.
 //
 
 import UIKit
